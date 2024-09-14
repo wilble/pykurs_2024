@@ -1,0 +1,3 @@
+2024-09-14 11:08:02,301 - INFO - CSV files 'smhi_temp.csv' and 'smhi_nederbord.csv' read and merged successfully.
+2024-09-14 11:08:04,972 - INFO - Database connection successfully established
+2024-09-14 11:08:07,562 - INFO - Data successfully inserted into jägersro table
